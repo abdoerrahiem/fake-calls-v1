@@ -1,0 +1,5 @@
+home
+contact
+chat
+call
+gallery
